@@ -5,12 +5,12 @@
   "note": "常规维护与体验优化",
   "std": {
     "file": "pkg-std-arm64.apk",
-    "size": 25736613,
-    "sha256": "1aea99d71ab9a511bf934fb108d92ef60f5ad685be7f709837c74fa01daf3314"
+    "size": 25736727,
+    "sha256": "76c1bbe1d946321337ce57a83471383d5b9f5622d1bbbd14a3214e51c6c002bc"
   },
   "lite": {
     "file": "pkg-lite-arm64.apk",
-    "size": 24801134,
-    "sha256": "52fdde8f207b812d2a3bc41bc5c8b7b2d6bb9d168c55c04950f7ef930adb8dfe"
+    "size": 24801253,
+    "sha256": "0fc6f310c00dd13913cacce80632c9e3f9ae2c85c7be53f33caaba20877f453f"
   }
 }
