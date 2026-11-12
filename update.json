@@ -1,16 +1,11 @@
 {
-  "code": 23,
-  "name": "1.3.1",
-  "tag": "v1.3.1",
-  "note": "常规维护与体验优化",
+  "code": 45,
+  "name": "1.3.23",
+  "tag": "v1.3.23",
+  "note": "这是一个浏览器",
   "std": {
     "file": "pkg-std-arm64.apk",
-    "size": 25740573,
-    "sha256": "37081752619d7c69f48648be107ed133e940e26f159865c8a6e6ddfc165863a5"
-  },
-  "lite": {
-    "file": "pkg-lite-arm64.apk",
-    "size": 24803254,
-    "sha256": "5f9753471a79bec4ef78b481eddf9fd65c4687eb3226a28c30e1e556dafeb547"
+    "size": 26350927,
+    "sha256": "2d0e1570a545f1708517d579a691adf4a01cc8ff3a3c0dfdb3c2788769844a87"
   }
 }
