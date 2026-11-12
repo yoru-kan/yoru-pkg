@@ -1,1 +1,1 @@
-# yoru-pkg
+# pkg
